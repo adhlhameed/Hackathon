@@ -1,5 +1,5 @@
-Name : Rhudhresh
-Reg. No: 212223050039
+Name : ADHL HAMEED
+Reg. No: 212223050002
 
 Aim:
 To design and simulate a traffic light controller for an intersection of three main roads, where each road has equal priority. The controller should regulate the traffic flow efficiently, ensuring safety and smooth movement of vehicles while diverting the traffic to path 1 direction and disabling control in other directions.
@@ -26,35 +26,19 @@ State Table :
 •	The "MR1", "MR2", and "MR3" columns specify the traffic light states for each main road in the current state.
 •	"Red", "Yellow", and "Green" denote the states of the traffic lights.
 •	The counter counts from 0 to 9, where each count corresponds to one clock cycle.
-Code: 
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/5b696e19-ec79-407c-a4f6-2474894e9355)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/a7afabae-6fd4-42d5-ab22-46a651b35cf9)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/0c7dec64-c053-4d4d-b0e6-11ee8b8372c7)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/64f05004-b8f7-4e87-8cfb-23ad9ad1fb95)
-
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/b7523f53-7afa-4f8b-a824-da6c53e0e31f)
-
-
-
-
-
-
+Code:
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/8bda021f-277a-45af-9852-4eace40e154c)
 
 RTL Schematic View
 
-![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/1bc00223-ea16-4533-ac48-93f3e65db698)
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/5525ef08-9b20-4128-a671-389bbb31e0f6)
+
 
  
 
 
 Output Waveforms
 
-
- ![image](https://github.com/RHUDHRESH/Hackathon/assets/74451692/c9e5cc3f-51ec-4cb0-abcc-1e334c8742d9)
-
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/9d1aac82-8658-4304-add6-66665864a287)
 
 
