@@ -27,7 +27,15 @@ State Table :
 •	"Red", "Yellow", and "Green" denote the states of the traffic lights.
 •	The counter counts from 0 to 9, where each count corresponds to one clock cycle.
 Code:
-![image](https://github.com/adhlhameed/Hackathon/assets/168260238/8bda021f-277a-45af-9852-4eace40e154c)
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/8a6af1b4-564a-40b5-ba3b-12cac1e384e3)
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/29fef600-f135-41f9-935c-c55a1253c9fd)
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/aef50836-8ee7-432f-bb20-81d34bc985ed)
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/e6e616e1-f238-454f-82ca-4fde1d30526b)
+![image](https://github.com/adhlhameed/Hackathon/assets/168260238/44b08204-4287-4582-af83-0412117014c5)
+
+
+
+
 
 RTL Schematic View
 
